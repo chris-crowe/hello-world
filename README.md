@@ -2,6 +2,15 @@
 
 Hello world! This is my first (personal) Git commit.
 
+# 2019 Plan
+
+<ul>
+  <li>Improve HTML + CSS skillset</li>
+  <li>Improve JavaScript skillset</li>
+  <li>Learn Python</li>
+  <li>Learn Node, Ruby, or PHP</li>
+</ul>
+
 # Resources
 
 https://learn.freecodecamp.org/<br>
